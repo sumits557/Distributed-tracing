@@ -1,2 +1,2 @@
 # Distributed-tracing
-Implementation distributed tracing with Jaeger &amp; Zipkin
+Implementation distributed tracing with Jaeger &amp; Zipkins
